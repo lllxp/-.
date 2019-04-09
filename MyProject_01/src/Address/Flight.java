@@ -1,5 +1,4 @@
 package Address;
-
 public class Flight {
 	private String flightName;          //º½°àÃû
 	private int row;                    //×ùÎ»ÅÅÊı
